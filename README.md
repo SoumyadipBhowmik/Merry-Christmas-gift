@@ -1,1 +1,1 @@
-# Merry-Christmas-gift
+# A project based on tutorials made by Scrimba and a project solely made by HTML and CSS
